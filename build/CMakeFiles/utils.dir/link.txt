@@ -1,0 +1,1 @@
+/usr/bin/clang++ -fPIC -stdlib=libc++ -shared -Wl,-soname,libutils.so -o libutils.so CMakeFiles/utils.dir/TestSort.cpp.o 

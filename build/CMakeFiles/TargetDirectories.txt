@@ -1,0 +1,4 @@
+/home/yang/test/build/CMakeFiles/test.dir
+/home/yang/test/build/CMakeFiles/utils.dir
+/home/yang/test/build/CMakeFiles/edit_cache.dir
+/home/yang/test/build/CMakeFiles/rebuild_cache.dir

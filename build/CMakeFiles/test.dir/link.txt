@@ -1,0 +1,1 @@
+/usr/bin/clang++ -stdlib=libc++ CMakeFiles/test.dir/TestSort.cpp.o -o test 
